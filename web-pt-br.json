@@ -1,3 +1,4 @@
+export default {
 "log_out": "Fazer logout",
 "change_lang": "Alterar idioma",
 "Edit": "Editar",
@@ -3755,3 +3756,4 @@
 "manage_events_analytics": "Gerenciar a análise de eventos",
 "view_events_analytics": "Exibir análises de eventos",
 "you_have_unsaved_changes": "Você tem alterações não salvas, tem certeza de que deseja sair?",
+};
